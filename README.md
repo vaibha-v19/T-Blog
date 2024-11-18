@@ -12,7 +12,7 @@ Travelers' is a travel blog application designed to capture, edit, and organize 
 ![Screenshot 2024-11-18 142601](https://github.com/user-attachments/assets/c51cfbea-aa41-466c-8154-90b7cec78798)
 
 ### Travel Story View
-![Screenshot 2024-11-18 142616](https://github.com/user-attachments/assets/d93418f3-8bac-41b3-bfbb-4bfe9a64b0ab)
+![Screenshot 2024-11-18 142616](https://github.com/user-attachments/assets/7e249f3d-8531-4e6b-9e95-80c3ac57436c)
 
 ### Login Page
 ![Screenshot 2024-11-18 142637](https://github.com/user-attachments/assets/4d2cf54f-4b6b-4317-b321-ad680d57ddf4)
