@@ -36,7 +36,7 @@ Travelers' is a travel blog application designed to capture, edit, and organize 
 - **Frontend**: Vite, React
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **Deployment**: Vercel (Frontend), Any suitable cloud service (Backend)
+- **Deployment**: Vercel (Frontend), Render (Backend)
 
 ## Installation
 
